@@ -1,4 +1,7 @@
 # PostCSS Russian Units [![Build Status][ci-img]][ci]
+
+![image](https://cloud.githubusercontent.com/assets/1198848/9138302/8f6e5f08-3d2b-11e5-9f8b-e8f38b057d6e.png)
+
 [PostCSS] plugin to support lengths in russian units.
 
 Inspired by [PostCSS Imperial](https://github.com/Semigradsky/postcss-russian-units).
