@@ -1,0 +1,10 @@
+{
+  "extends": ["eslint:recommended", "airbnb-lite"],
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "indent": [2, "tab"],
+    "comma-dangle": 0
+  }
+}
