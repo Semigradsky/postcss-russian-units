@@ -14,7 +14,7 @@ function translate(value, amount, name) {
 	return (result * ROUNDING_MAGIC_NUMBER).toFixed() / ROUNDING_MAGIC_NUMBER + 'in';
 }
 
-module.exports = postcss.plugin('postcss-russian-units', () => {
+export default postcss.plugin('postcss-russian-units', () => {
 	return (css) => {
 		units.forEach((unit) => {
 			unit.names.forEach((name) => {
