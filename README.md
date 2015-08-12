@@ -4,7 +4,7 @@
 
 [PostCSS] plugin to support lengths in russian units.
 
-Inspired by [PostCSS Imperial](https://github.com/Semigradsky/postcss-russian-units).
+Inspired by [PostCSS Imperial](https://github.com/cbas/postcss-imperial).
 
 [PostCSS]: https://github.com/postcss/postcss
 [ci-img]:  https://travis-ci.org/Semigradsky/postcss-russian-units.svg
