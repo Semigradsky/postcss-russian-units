@@ -6,6 +6,8 @@
 
 Inspired by [PostCSS Imperial](https://github.com/cbas/postcss-imperial).
 
+See also [:ru: postcss-russian-stylesheets](https://github.com/Semigradsky/postcss-russian-stylesheets)
+
 [PostCSS]: https://github.com/postcss/postcss
 [ci-img]:  https://travis-ci.org/Semigradsky/postcss-russian-units.svg
 [ci]:      https://travis-ci.org/Semigradsky/postcss-russian-units
