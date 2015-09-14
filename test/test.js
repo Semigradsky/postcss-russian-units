@@ -11,7 +11,7 @@ const test = (input, output, opts, done) => {
 	}).catch(done);
 };
 
-describe('postcss-imperial', () => {
+describe('postcss-russian-units', () => {
 	it('supports dyuim', (done) => {
 		test(
 			'a{ height: 1dyuim; width: 10дюймов }',
