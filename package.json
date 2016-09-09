@@ -33,7 +33,7 @@
     "babel": "^5.8.21",
     "babel-eslint": "^4.0.5",
     "chai": "^3.2.0",
-    "eslint": "^1.0.0",
+    "eslint": "^3.5.0",
     "eslint-config-airbnb-lite": "^1.0.3",
     "mocha": "^2.2.5"
   }
